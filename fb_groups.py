@@ -13,8 +13,8 @@ print "Start Time:", datetime.datetime.now()
 
 # define values
 # change these values as required
-page_name = "Troll Assamese MEDIA" #the case-sensitive Facebook Page from which to extract post data
-page_url = "https://www.facebook.com/Trollassammedia/" #URL of the group
+page_name = "<name_of_the_Page>" #the case-sensitive Facebook Page from which to extract post data
+page_url = "https://www.facebook.com/XXXXXX/" #URL of the Page
 user_name = "<your_user_name>" #username for Facebook login
 password = "<your_password>" #password for Facebook login
 pages_to_scrape = 3 #how far down the page should we scroll, maximum limit is around 150 pages

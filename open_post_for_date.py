@@ -10,8 +10,8 @@ import datetime
 print "Start Time:", datetime.datetime.now()
 
 # define values
-page_name = "Troll Assamese MEDIA" #the case-sensitive Facebook Page from which to extract post data
-page_url = "https://www.facebook.com/Trollassammedia/" #URL of the group
+page_name = "<name_of_the_Page>" #the case-sensitive Facebook Page from which to extract post data
+page_url = "https://www.facebook.com/XXXXXX/" #URL of the Page
 user_name = "gumpsujoy@gmail.com" #username for Facebook login
 password = "iI_am_Mama@1983k" #password for Facebook login
 # enter the date in this format, since the script scrolls through the Page looking for this date,
